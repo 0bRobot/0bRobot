@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <!-- [Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bRobot&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0bRobot&layout=compact&theme=tokyonight)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0bRobot&layout=compact&theme=tokyonight)](https://github.com/0bRobot)
