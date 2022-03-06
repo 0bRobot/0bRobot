@@ -1,4 +1,4 @@
-# Hi there 👋 <h2 align = "center"> I'M  0B.Mr.Robot </h2>
+# Hi there 👋 <h2 align = "center"> I'm  0B.Mr.Robot </h2>
 
 <!--
 **0bRobot/0bRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
