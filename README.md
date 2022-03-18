@@ -18,10 +18,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0bRobot&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/0bRobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bRobot&langs_count=8&theme=gotham&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bRobot&langs_count=8&theme=gotham&count_private=true&layout=compact&card_width=250" />
 </a>
 
----
 
 ### Mostly Work With ⚒
 
