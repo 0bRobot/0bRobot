@@ -54,7 +54,7 @@
 </div>
 
 <!-- 访客数统计徽标 -->
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=0bRobot" alt="访客统计" /></div>
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=0bRobot" alt="count" /></div>
 
 ### Mostly Work With ⚒
 
