@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python">
-<img src="https://img.shields.io/badge/Go-1.8-green?style=flat-square&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/Go-green?style=flat-square&logo=Go&logoColor=white">
 </div>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='20' height='20' > My Github Stats:
