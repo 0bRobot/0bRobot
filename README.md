@@ -23,8 +23,8 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker">
 <img src="https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Mysql-brightgreen?style=flat-square&logo=Mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
 <img src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
