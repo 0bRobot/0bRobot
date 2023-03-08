@@ -15,8 +15,7 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
