@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.8kon.com/">
+  <a href="https://blog.uhroot.com">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);&center=true&size=27">
   </a>
 </h1>
@@ -48,7 +48,7 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <a href="https://blog.8kon.com/">
+  <a href="https://blog.uhroot.com/">
   <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=0bRobot&show_icons=true&theme=gotham" />
   <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bRobot&langs_count=8&theme=gotham&count_private=true&layout=compact&card_width=250" />
    </a>
