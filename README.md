@@ -8,7 +8,7 @@
 # Hi there 👋 <h2 align = "center"> 0b_Mr.Robot </h2>
 
 - 🔭 I’m currently working on  CobaltStrike
-- 🌱 I’m currently learning    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+- 🌱 I’m currently learning   ![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)&![Go](https://img.shields.io/badge/-Go-blue) 
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about 
 - 📫 How to reach me: 
@@ -22,14 +22,14 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker">
 <img src="https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-brightgreen?style=flat-square&logo=Mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff">
 <img src="https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python">
-<img src="https://img.shields.io/badge/Go-green?style=flat-square&logo=Go&logoColor=white">
+<img src="https://img.shields.io/badge/-green?style=flat-square&logo=Go&logoColor=white">
 </div>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='20' height='20' > My Github Stats:
